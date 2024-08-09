@@ -1,6 +1,6 @@
 # Task Management API Documentation
 
-Welcome to the documentation for the Task Management API! This API allows you to manage tasks in a simple and efficient way.
+Welcome to the documentation for the Task Management API! This API allows you to manage tasks in a simple and efficient way. The full postman documentation can be found [here](https://documenter.getpostman.com/view/27059858/2sA3s1pY2B). 
 
 ## Endpoints
 
@@ -117,7 +117,7 @@ Content-Type: application/json
 **Request:**
 
 ```
-PUT /tasks/1
+PUT /tasks
 Content-Type: application/json
 
 {
